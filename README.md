@@ -1,8 +1,6 @@
-![Banner](/assets/banner.png)
+![Banner](https://i.imgur.com/troEOIS.png)
 
-# Welcome to Cogxen's Discussion!
-
-This repository serves as the central hub for all discussions related to our organization’s projects, initiatives, and community engagements. Here, you can:
+This serves as the central hub for all discussions related to our organization’s projects, initiatives, and community engagements. Here, you can:
 
 - **Ask Questions**: Whether you're new to our projects or a seasoned contributor, feel free to ask questions. Our community and maintainers are here to help.
 - **Share Ideas**: Have an innovative idea or suggestion? This is the place to brainstorm and collaborate with others to bring your concepts to life.
@@ -21,7 +19,7 @@ To ensure a welcoming and productive environment, we ask all participants to adh
 
 ## Getting Started
 
-- **Introduce Yourself**: Start by introducing yourself in the **[Welcome Thread](https://github.com/orgs/cogxen/discussions/categories/welcome)**. Let us know who you are, your interests, and how you’d like to contribute.
+- **Introduce Yourself**: Start by introducing yourself in the **[Welcome Thread](https://github.com/orgs/aelluminate/discussions/categories/welcome)**. Let us know who you are, your interests, and how you’d like to contribute.
 - **Browse Categories**: Explore the various categories to find discussions that interest you. Feel free to join existing conversations or start a new topic.
 - **Follow Updates**: Stay informed about the latest discussions and announcements by watching this repository.
 
@@ -30,6 +28,6 @@ We are excited to have you here and look forward to your contributions to our co
 
 <div align="center">
 
-###### Cogxen Team
+###### Aelluminate
 
 </div>
